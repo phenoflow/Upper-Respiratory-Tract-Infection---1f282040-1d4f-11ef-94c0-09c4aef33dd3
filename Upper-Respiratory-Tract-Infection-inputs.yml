@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-laryngitis---primary.py
+inputModule3:
+  class: File
+  path: python/other-upper-respiratory-tract-infection-urti---primary.py
+inputModule4:
+  class: File
+  path: python/acute-upper-respiratory-tract-infection-urti---primary.py
+inputModule5:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-catarrhal---primary.py
+inputModule6:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-laryngotracheitis---primary.py
+inputModule7:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-specified---primary.py
+inputModule8:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-tracheopharyngitis---primary.py
+inputModule9:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-obstruction---primary.py
+inputModule10:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti---primary.py
+inputModule11:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-epiglottitis---primary.py
+inputModule12:
+  class: File
+  path: python/upper-respiratory-tract-infection-urti-organism---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
